@@ -22,4 +22,6 @@ attr = {
     'first_name': '',
     'last_name': '',
     'middle_name': '',
+    'get_first_name': get_first_name,
+    
 }
